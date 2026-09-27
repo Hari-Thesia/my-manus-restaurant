@@ -18,11 +18,11 @@ import {
   X,
 } from "lucide-react";
 
-const heroImage = "/manus-storage/cuore-google-cover_277a1e3c.jpg";
-const diningImage = "/manus-storage/cuore-google-food_88ecc955.jpg";
-const banquetImage = "/manus-storage/cuore-supplied-banquet_77d496ab.webp";
-const occasionImage = "/manus-storage/cuore-stock-occasion_190bbd0a.jpg";
-const logoImage = "/manus-storage/logo_7fb21439.png";
+const heroImage = "src="/assets/main.png"";
+const diningImage = "src="/assets/int2.png";
+const banquetImage = "src="/assets/banq.png";
+const occasionImage = "src="/assets/int1.png";
+const logoImage = "src="/assets/logo.png";
 
 const highlights = [
   { number: "01", title: "The room", copy: "A high-ceiling contemporary dining space where architecture, warmth and atmosphere meet.", image: diningImage },
