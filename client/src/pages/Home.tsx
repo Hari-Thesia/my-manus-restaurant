@@ -18,11 +18,11 @@ import {
   X,
 } from "lucide-react";
 
-const heroImage = "src="/assets/main.png"";
-const diningImage = "src="/assets/int2.png";
-const banquetImage = "src="/assets/banq.png";
-const occasionImage = "src="/assets/int1.png";
-const logoImage = "src="/assets/logo.png";
+const heroImage = /assets/main.png";
+const diningImage = /assets/int2.png";
+const banquetImage = /assets/banq.png";
+const occasionImage = /assets/int1.png";
+const logoImage = /assets/logo.png";
 
 const highlights = [
   { number: "01", title: "The room", copy: "A high-ceiling contemporary dining space where architecture, warmth and atmosphere meet.", image: diningImage },
